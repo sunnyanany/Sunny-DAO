@@ -1,2 +1,2 @@
-# AIO-DAO
+# Sunny-DAO
 DAO Members
